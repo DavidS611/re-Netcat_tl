@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add daily_commit.sh
+git add datetime.txt
 git commit -m "Daily commit"
-git push origin master
+git push -u origin master
 
